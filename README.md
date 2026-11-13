@@ -7,7 +7,6 @@
 
    ## Contents
    - `jpeg_qf_tradeoff.ipynb`: experiment (JPEG, WebP, AVIF; PSNR, SSIM, MS-SSIM; statistics)
-   - `results/`: per-image and summary CSV files, figures, `Environment.txt`
    - `requirements.txt`: library versions used
 
    ## License
